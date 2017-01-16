@@ -1,0 +1,12 @@
+Creating this was a p̶a̶i̶n̶ ̶i̶n̶ ̶t̶h̶e̶ ̶a̶s̶s̶, especially since i had done it before on one pc and when i tried to move it to another...
+
+Pinning it to the taskbar:
+https://blogs.technet.microsoft.com/win7/2011/01/11/pining-a-bat-cmd-file-to-taskbar/
+
+LINKS!
+
+For writting the comment file:
+http://stackoverflow.com/questions/20484151/redirecting-output-from-within-batch-file
+http://stackoverflow.com/questions/21381705/create-a-txt-file-using-batch-file-in-a-specific-folder
+http://stackoverflow.com/questions/5139157/append-text-with-bat
+http://stackoverflow.com/questions/7396680/add-new-line-in-text-file-with-windows-batch-file
